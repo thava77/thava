@@ -1,0 +1,11 @@
+#EXTINF:-1 tvg-id="3 Sports" tvg-name="Star Sport 1 Tamil" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sports",Star Sport 1 Tamil
+https://vmi813643.contaboserver.net/Star_sports_Tamil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="3 Sports" tvg-name="Star Sport 1" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sports",Star Sport 1 
+https://s3.123zcast.com:8081/hls/star1in.m3u8
+#EXTINF:-1 tvg-id="3 Sports" tvg-name="Astro Supersport 1" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sports",Astro Supersport 1
+https://uload.ru.com/cdn/premium123/chunks.m3u8
+#EXTINF:-1 tvg-id="3 Sports" tvg-name="Astro Supersport 3" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sports",Astro Supersport 3
+https://uload.ru.com/cdn/premium125/chunks.m3u8
+#EXTINF:-1 tvg-id="3 Sports" tvg-name="Astro Supersport 4" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sports",Astro Supersport 4
+https://uload.ru.com/cdn/premium126/chunks.m3u8
+
