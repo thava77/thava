@@ -112,6 +112,8 @@ http://116.202.116.250/hls/h7toh6teamlbu3tf6rudlnxprbb25csri3e4l6rmyijd32mzxics4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod English (Tamil Dub)",Rush Hour 3(2007)
 http://cdn007.vidmx.xyz/hls/h7tof63eamlbu3tf6rudlj5s2242r2ltxbgvmsazic7lupa2sj6ay4lnuh3q/index-v1-a1.m3u8
 ------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil",Saani Kaayidham(2022)
+http://cdn54.vidmx.xyz/hls/h7tod2knamlbu3tf6rvtl6752tsxrqkbnini6rvi4ik5qeqkl4jsbsrsbfia/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil",Jagame Thandhiram(2021)
 https://archive.org/download/jagame-thandhiram-2021-tamil-hd-720p-www.-tamilarasan.-net/Jagame%20Thandhiram%20%282021%29%20Tamil%20HD%20720p%20Www.Tamilarasan.Net.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil",Thottal Poo Malarum(2007)
@@ -119,7 +121,7 @@ https://archive.org/download/thottal-poo-malarum-hdrip.x-264-800-mb-720p/Thottal
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil",Salute(2022)
 http://163.172.24.143/hls/h7todd2oamlbu3tf6rvtl4xurwpnk5rkxqf5ablafx2r5rrgge6wp6zt545q/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil",KGF Chapter 2(2022)
-http://cdn55.vidmx.xyz/hls/h7tock2namlbu3tf6rvtljnrrycnuuhssn33jpdurqmc4agcycyf5czfmnka/index-v1-a1.m3u8
+https://100vod-adaptive.akamaized.net/exp=1651851013~acl=%2F7a8cacd5-ecec-45ed-8007-5efcfae9676b%2F%2A~hmac=e788ce35755bafec2259e3e4e4ea999b8b7c42d2f8244f4028f7a70eabcd1336/7a8cacd5-ecec-45ed-8007-5efcfae9676b/sep/video/c93fb746/playlist.m3u8?query_string_ranges=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil",Hostel(2022)
 http://cdn54.vidmx.xyz/hls/h7todyknamlbu3tf6rvtloxxzx42iwigxoecxe2jtb4dxkcbgs5u3xyesmra/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil",Mr.Peyii(2022)
